@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsjapajv" target="blank"><img src="https://img.shields.io/twitter/follow/itsjapajv?logo=twitter&style=for-the-badge" alt="itsjapajv" /></a> </p>
 
-- 🌱 Atualmente estudando projetos em **Python**
+- 🌱 Atualmente estudando projetos em **Django**
 
 - 👨‍💻 Portifolio:  [https://itsjoaovictor.github.io/Meu-Portfolio/](https://itsjoaovictor.github.io/Meu-Portfolio/)
 

@@ -16,6 +16,8 @@
 - 📫 Contato **jvgf98@gmail.com**
 
 - 🖥️ Experiência na area **Back-end**, **Analise de Dados** e **Front-end**
+- Não tenho experiência profissional
+- Área de Interesse além da computação a área administrativa 
 
 
 <h3 align="left">Connect with me:</h3>

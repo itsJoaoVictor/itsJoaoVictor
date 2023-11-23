@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Victor</h1>
+<h1 align="center">Olá 👋, Eu sou João Victor</h1>
 <h3 align="center">Estudante de Ciência da Computação pela Universidade Federal de Sergipe apaixonado por tecnologia</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47rv354d8wdv8hebcc01v8hcglc2ed7a1t8cwsbty0&rid=giphy.gif&ct=g">
 
